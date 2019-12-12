@@ -1,3 +1,9 @@
+/**
+ * @author Carlos Eduardo B Souza
+ * @version 0.0.1
+ * Desenvolvido em 12/12/2019
+ */
+
 alert("Meu primeiro JS Externo");
 
 var nome = "Fallen";
