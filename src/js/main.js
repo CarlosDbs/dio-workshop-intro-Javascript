@@ -40,3 +40,6 @@ var clubeIngles = "Liverpool";
  //Alterando o Case das Strings
  console.log(frase.toUpperCase());
  console.log(frase.toLowerCase());
+
+
+ 
